@@ -1,0 +1,2 @@
+# SignWise-Real-Time-Sign-Language-Recognition-with-Machine-Learning
+SignWise is a machine learning-based system that recognizes and interprets sign language gestures in real time. It bridges the communication gap between sign language users and non-signers, promoting accessibility and inclusivity. The system uses supervised machine learning to analyze gesture data, improving accuracy through continuous training.
